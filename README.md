@@ -1,0 +1,2 @@
+# speech-to-go1011
+peechToGo是一个将语音转换为可部署的TensorFlowlite模型的Python库, 用于用于推理、Android和iOS设备上使用等等
